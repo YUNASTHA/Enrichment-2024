@@ -45,3 +45,5 @@ console
 //arrow function
 
 function someFunction() {}
+
+const arrow = () => {}
